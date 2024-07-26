@@ -1,5 +1,5 @@
 
-# [Database](https://leetcode.com/tag/database/)
+# [Database Leetcode](https://leetcode.com/tag/database/)
 
 ## [SQL50-Leetcode](https://leetcode.com/studyplan/top-sql-50/)
 
