@@ -21,6 +21,7 @@ SELECT * FROM Employee3;
 
 
 -- main query
+-- Approach : 1
 SELECT
     e1.employee_id,
     e1.name,
@@ -32,3 +33,19 @@ GROUP BY
     e1.employee_id,
     e1.name
 ORDER BY employee_id
+
+
+-- Approach : 2
+SELECT 
+    e.employee_id,
+    e.name,
+    COUNT(r.employee_id) AS reports_count,
+    ROUND(AVG(r.age)) AS average_age
+FROM 
+    Employees3 e
+JOIN 
+    Employees3 r ON e.employee_id = r.reports_to
+GROUP BY 
+    e.employee_id, e.name
+ORDER BY 
+    e.employee_id;
