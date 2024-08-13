@@ -15,6 +15,7 @@ INSERT INTO Accounts (account_id, income) VALUES
 SELECT * FROM Accounts;
 
 -- main query
+-- Approach - 1
 SELECT "Low Salary" AS Category, COUNT(income) AS accounts_count
 FROM Accounts
 WHERE
@@ -29,4 +30,29 @@ UNION
 SELECT "High Salary" AS Category, COUNT(income) AS accounts_count
 FROM Accounts
 WHERE
+    income > 50000;
+
+-- Approach - 2
+SELECT 
+    'Low Salary' AS category,
+    COUNT(*) AS accounts_count
+FROM 
+    Accounts
+WHERE 
+    income < 20000
+UNION ALL
+SELECT 
+    'Average Salary' AS category,
+    COUNT(*) AS accounts_count
+FROM 
+    Accounts
+WHERE 
+    income BETWEEN 20000 AND 50000
+UNION ALL
+SELECT 
+    'High Salary' AS category,
+    COUNT(*) AS accounts_count
+FROM 
+    Accounts
+WHERE 
     income > 50000;
