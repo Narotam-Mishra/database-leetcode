@@ -58,8 +58,6 @@ GROUP BY
 ORDER BY visited_on;
 
 
--- Approach - 2
-
 
 
 
