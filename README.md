@@ -3,7 +3,6 @@
 
 ## [SQL50-Leetcode](https://leetcode.com/studyplan/top-sql-50/)
 
-
 ### [Select](https://leetcode.com/studyplan/top-sql-50/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
@@ -67,3 +66,6 @@
 - [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50)
 - [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=top-sql-50)
 - [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50)
+
+## [SQL Practice Leetcode](https://leetcode.com/tag/database/)
+- [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)[Unsolved]
