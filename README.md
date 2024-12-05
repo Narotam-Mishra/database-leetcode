@@ -69,3 +69,4 @@
 
 ## [SQL Practice Leetcode](https://leetcode.com/tag/database/)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)[Unsolved]
+- [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)[Unsolved]
