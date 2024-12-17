@@ -71,3 +71,4 @@
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)[Unsolved]
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)[Unsolved]
+- [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)[Unsolved]
