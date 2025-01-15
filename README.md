@@ -73,3 +73,4 @@
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/?envType=problem-list-v2&envId=database&status=TO_DO&difficulty=EASY)[Unsolved]
 - [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/?envType=problem-list-v2&envId=database)[Unsolved]
+- [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/?envType=problem-list-v2&envId=database)[Unsolved]
