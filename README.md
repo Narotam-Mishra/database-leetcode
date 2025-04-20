@@ -75,4 +75,4 @@
 - [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/?envType=problem-list-v2&envId=database)[Unsolved]
 - [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/?envType=problem-list-v2&envId=database)[Unsolved]
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/?envType=problem-list-v2&envId=database)[Unsolved]
-- [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/?envType=problem-list-v2&envId=database)
+- [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/?envType=problem-list-v2&envId=database)[Unsolved]
